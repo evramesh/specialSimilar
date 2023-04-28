@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.icon {
+  height: 400px;
+  width: 280px;
+  border-radius: 20px;
+  margin: 10px;
+}
+.mini {
+  display: flex;
+}
+.ic {
+  color: black;
+  background-color: brown;
+}
+.loader {
+  text-align: center;
+}
+.ul {
+  display: flex;
+}
+.count {
+  display: flex;
+  align-items: center;
+}
+.fail {
+  height: 500px;
+  width: 700px;
+}

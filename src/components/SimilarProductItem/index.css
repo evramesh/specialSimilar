@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.similar-icon {
+  height: 150px;
+  width: 130px;
+}
+.list {
+  list-style: none;
+  margin: 10px;
+}
